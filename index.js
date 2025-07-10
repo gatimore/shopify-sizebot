@@ -38,7 +38,7 @@ async function addSizes(product) {
     option1: size,
     price: basePrice,
     inventory_management: "shopify",
-    inventory_quantity: 10
+    inventory_quantity: 100
   }));
 
   const body = {
