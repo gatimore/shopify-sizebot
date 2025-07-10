@@ -1,0 +1,12 @@
+{
+  "name": "shopify-sizebot",
+  "version": "1.0.0",
+  "description": "Auto-adds US shoe sizes to new Shopify products",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
